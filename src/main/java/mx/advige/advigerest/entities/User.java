@@ -53,7 +53,7 @@ public class User {
 	}
 	
 	/**
-	 * Getters & Setters  */
+	 * Getters & Setters este es un comentario */
 	
 	public Long getId() {
 		return id;
