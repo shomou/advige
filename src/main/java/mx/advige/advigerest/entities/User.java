@@ -1,4 +1,4 @@
-package mx.advige.advigerest.entities;
+ package mx.advige.advigerest.entities;
 
 import java.util.Date;
 import java.util.List;
@@ -53,7 +53,7 @@ public class User {
 	}
 	
 	/**
-	 * Getters & Setters */
+	 * Getters & Setters  */
 	
 	public Long getId() {
 		return id;
