@@ -14,7 +14,7 @@ import jakarta.persistence.Table;
 @Entity
 @Table(name = "user")
 public class User {
-
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
@@ -52,7 +52,8 @@ public class User {
 
 	}
 	
-	
+	/**
+	 * Getters & Setters */
 	
 	public Long getId() {
 		return id;
